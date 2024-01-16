@@ -1,0 +1,1 @@
+dotnet Worker2.dll %*
